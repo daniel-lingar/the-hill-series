@@ -1,5 +1,7 @@
 # THE HILL — 10-Second Trailer Clips (Production Script)
 
+**Grok Imagine version:** use **`TRAILER_GROK_IMAGINE.md`** — `image_gen` + `image_to_video` prompts, dialogue in post.
+
 **Total:** 14 clips × **10.0 seconds** = 2:20  
 **Speaker key:** Every line is labeled. **ON-SCREEN** = lip-sync. **VO** = voiceover (speaker not visible or off-camera).  
 **Era tags:** `[1864]` `[1942]` `[PRESENT]`
