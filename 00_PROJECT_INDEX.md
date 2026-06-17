@@ -23,6 +23,27 @@ Canonical structure file:
 
 - `01-season-one/SEASON_ONE_STRUCTURE.md`
 
+## Latest Season One upload pass
+
+A 2026-06-17 upload batch of 20 Season One PDFs has been mapped into the locked Season One structure.
+
+Inventory file:
+
+- `01-season-one/00_UPLOAD_INVENTORY_2026-06-17.md`
+
+Coverage from that upload:
+
+```text
+Episode 01 - 5/5 acts represented
+Episode 02 - 5/5 acts represented
+Episode 03 - 3/5 acts represented
+Episode 04 - 1/5 acts represented
+Episode 05 - 1/5 acts represented
+Episode 06 - 0/5 acts represented in this upload
+Episode 07 - 0/5 acts represented in this upload
+Episode 08 - source material already noted in prior auto-ingest
+```
+
 ## Confirmed show files already present in GitHub
 
 The following files are present under:
