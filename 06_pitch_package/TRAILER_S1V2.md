@@ -251,6 +251,10 @@ Keep, in order:
 
 ---
 
+## 10-SECOND CLIPS (production)
+
+Full VO-aligned breakdown: **`TRAILER_10SEC_CLIPS.md`** — 14 clips × 10 sec, word-timed VO, standalone + stitch order.
+
 ## OPTIONAL SOCIAL 15s (three cards)
 
 **Card 1:** Chicken dinner. Text: *The last ordinary meal.*  
