@@ -1,258 +1,266 @@
-# THE HILL — 10-Second Trailer Clips (VO-Aligned)
+# THE HILL — 10-Second Trailer Clips (Production Script)
 
-**Use:** Social cuts, ad placements, stitch into full trailer, or post as a numbered series.  
-**Pace:** Slow gothic. ~2.2 words/second. Each VO is timed to **10 seconds** including breath and one beat of silence.  
-**Read time:** ~18–22 spoken words per clip (max).  
-**Music:** Single drone or room tone under VO; no swell until Clip 14.
-
-**Full sequence:** 14 clips = **2:20** total.
+**Total:** 14 clips × **10.0 seconds** = 2:20  
+**Speaker key:** Every line is labeled. **ON-SCREEN** = lip-sync. **VO** = voiceover (speaker not visible or off-camera).  
+**Era tags:** `[1864]` `[1942]` `[PRESENT]`
 
 ---
 
-## How to record
+## SPEAKER CAST (for casting / AI voice IDs)
 
-- Leave **1.5 sec** at the head of each clip (SFX or silence before first word).
-- Leave **1 sec** tail after last word (hold on image).
-- Clips work **standalone** (caption identifies series) or **in order** (no recap needed).
-
----
-
-### CLIP 01 · 0:00–0:10 · THE LAST MEAL
-
-**VISUAL:** Chicken on the table. Fire low. Faces frozen. Ridge through window.
-
-**VO:**  
-*"Johnson County. Eighteen sixty-four. Before the violence… there was dinner."*
-
-**WORDS:** 12 · **~5.5 sec speech** · 4.5 sec hold  
-**SFX:** Skillet hiss at head.  
-**SUPER (optional):** THE HILL · Clip 1/14
+| ID | Character | Era | Voice note |
+|----|-----------|-----|------------|
+| **NARRATOR** | Trailer narrator (Daniel frame) | Any | Adult male, Arkansas-neutral, low, no trailer-bark |
+| **LOUIS** | Louis Horner (Spencer's son) | 1864 | Young adult, urgent whisper |
+| **CHILD** | John Samuel Acord, age 7 (lookout) | 1864 | Boy, thin, scared-shout |
+| **SPENCER** | John Spencer Horner | 1864 | Older farmer, calm surrender |
+| **MARY ANN** | Mary Ann Horner Boen | 1864 | Whisper, exhausted |
+| **HORNER** | Dr. John Turner Horner | 1864 | Physician, flat control breaking |
+| **MIDDLETON** | Wash Middleton | 1864 | Burly, few words |
+| **OLD MAN** | Prof. John Turner Horner, elderly | 1942 | Same bloodline as HORNER, cracked porch voice |
+| **GIRL** | Eva Horner (child listener) | 1942 | Girl, 8–12, clear question |
+| **DANIEL** | Daniel/Bret Lingar | Present | Same as NARRATOR or matched |
+| **CARVER** | Tombstone carver | 1864 | Off-screen, work voice |
 
 ---
 
-### CLIP 02 · 0:10–0:20 · THE WARNING
+## CLIP 01 · THE LAST MEAL · 10.0 sec
 
-**VISUAL:** Hands wringing apron. Door bright with daylight beyond.
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **INT. HORNER HOUSE — NIGHT `[1864]`** · Static wide. Pine table center frame. Whole **roasted chicken** on iron platter, untouched. **Kerosene lamp** left of frame, flame low. **Five adults/children** in chair backs only — faces in partial shadow, no hero close-up. Window back-right: **black ridge** silhouette. | *(silence)* · **SFX:** skillet oil hiss (from off-screen kitchen) |
+| **0:01.5–0:06.5** | Same shot. Slow **2% push-in** toward chicken. No one moves. | **NARRATOR `[VO]`:** *"Johnson County. Eighteen sixty-four."* · *(0.5 beat)* · *"Before the violence… there was dinner."* |
+| **0:06.5–0:10.0** | Hold on chicken. Lamp flickers once. | *(silence)* · **SUPER:** `THE HILL · 1/14` bottom right |
 
-**VO:**  
-*"Whatever you do… don't go up to the house in the daytime. The food was in the kitchen."*
-
-**WORDS:** 18 · **~8 sec** · 2 sec hold  
-**SFX:** None under VO.
-
----
-
-### CLIP 03 · 0:20–0:30 · HERE THEY COME
-
-**VISUAL:** Child on porch. Dust on the road. Cut before riders clear frame.
-
-**VO (child, then adult 1942):**  
-*"Here they come, Grandpap—"*  
-*(beat)*  
-*"Wasn't long till about twenty rebels came riding up."*
-
-**WORDS:** 14 · **~7 sec** · 3 sec hold  
-**NOTE:** Child line clipped intentionally. Adult line is 1942 frame.
+**No on-screen dialogue this clip.**
 
 ---
 
-### CLIP 04 · 0:30–0:40 · THE POTATO PATCH
+## CLIP 02 · THE WARNING · 10.0 sec
 
-**VISUAL:** Spencer walks out, hands up. Open ground. August heat.
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **EXT. HORNER HOUSE — DAY `[1864]`** · Medium shot from **inside doorway** looking out. **Bright August daylight** blows out the yard. **MARY ANN** foreground left, back to camera, **hands wringing apron**. Door frame dark. | *(silence)* |
+| **0:01.5–0:05.0** | Cut: **EXT. TIMBER LINE — SAME DAY** · **LOUIS** (hat, horse reins in hand) faces **SPENCER** and **WILLIAM** (William mid-30s). Louis points toward house. | **LOUIS `[ON-SCREEN, urgent whisper]`:** *"Whatever you do… don't go up to the house in the daytime."* |
+| **0:05.0–0:08.0** | Cut: **INT. HOUSE — KITCHEN** · Chicken in woman's hands over bowl. Knife paused. | **NARRATOR `[VO]`:** *"But the mother was killing a chicken. The food was in the kitchen."* |
+| **0:08.0–0:10.0** | Return doorway shot. MARY ANN steps one foot into the light. | *(silence)* |
 
-**VO:**  
-*"Grandfather went out and said, I surrender. They shot him down in the potato patch."*
-
-**WORDS:** 16 · **~7.5 sec** · 2.5 sec hold  
-**SFX:** Single distant shot after *surrender* — not graphic.
-
----
-
-### CLIP 05 · 0:40–0:50 · THE RIDGE
-
-**VISUAL:** Women dragging William toward timber. Homestead behind them. No house.
-
-**VO:**  
-*"They beat his son in the field and left him for dead. The women carried him to the ridge."*
-
-**WORDS:** 18 · **~8 sec** · 2 sec hold
+**Speakers this clip:** LOUIS (on-screen) · NARRATOR (VO over kitchen)
 
 ---
 
-### CLIP 06 · 0:50–1:00 · THE CAVE
+## CLIP 03 · HERE THEY COME · 10.0 sec
 
-**VISUAL:** Cave mouth. Cloth. Water drip. Breath.
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **EXT. HORNER YARD — DAY `[1864]`** · Low angle from porch floor. **CHILD** (John Samuel, 7) bare feet, runs toward door, **arm pointing** up road. Dust plume visible background. | *(silence)* · **SFX:** distant hoofbeats (low) |
+| **0:01.5–0:03.5** | Same angle tighter. Child fills lower frame, sky above. | **CHILD `[ON-SCREEN, shout]`:** *"Here they come, Grandpap—"* · *(line cuts off mid-word)* |
+| **0:03.5–0:08.5** | **INT. PORCH — NIGHT `[1942]`** · Match cut to weathered boards. **OLD MAN** in rocking chair, **GIRL** on step beside him. Fireflies. He stares past camera into trees. | **OLD MAN `[ON-SCREEN, memory tone]`:** *"Wasn't long till about twenty rebels came riding up."* |
+| **0:08.5–0:10.0** | Hold OLD MAN face. No riders shown. | *(silence)* |
 
-**VO:**  
-*"He lived eight days in a hole in the hill. Eight days… while the county stayed quiet."*
-
-**WORDS:** 17 · **~7.5 sec** · 2.5 sec hold  
-**SFX:** Water drip under last line.
-
----
-
-### CLIP 07 · 1:00–1:10 · PARTIES KNOWN
-
-**VISUAL:** Chisel on stone. Partial inscription. **HOMER** misspelling visible.
-
-**VO:**  
-*"Killed August the tenth… by parties known to his family. Carved in stone. Not in court."*
-
-**WORDS:** 16 · **~7 sec** · 3 sec hold  
-**SFX:** Chisel strike between *family* and *Carved*.
+**Speakers this clip:** CHILD `[1864]` · OLD MAN `[1942]` — **two eras, two speakers, no overlap**
 
 ---
 
-### CLIP 08 · 1:10–1:20 · THE SILENCE
+## CLIP 04 · THE POTATO PATCH · 10.0 sec
 
-**VISUAL:** Empty sheriff's ledger. Pen dry. Portrait of John Fry Hill on wall.
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **EXT. POTATO FIELD — DAY `[1864]`** · Wide aerial-low (drone 12ft). Rows diagonal. Homestead small background. **~20 horse shapes** at tree line (faces not readable). | *(silence)* |
+| **0:01.5–0:04.5** | Ground level front of **SPENCER** (56, gray beard, suspenders). Hands **raised shoulder-high**. Open palms. Sweat. Potato plants chest-high. | **SPENCER `[ON-SCREEN, loud calm]`:** *"I surrender!"* |
+| **0:04.5–0:05.5** | Same frame. Spencer's chest **jerks once**. He falls out of bottom of frame. | **SFX:** single gunshot (dry, not echoey) · *(no dialogue)* |
+| **0:05.5–0:09.0** | **SPENCER's body** between rows — **not graphic**, boot and hand only. Dust settles. | **NARRATOR `[VO]`:** *"They shot him down in the potato patch."* |
+| **0:09.0–0:10.0** | Hold boots in dirt. | *(silence)* |
 
-**VO:**  
-*"The sheriff held the county. The war held the hills. The law never came."*
-
-**WORDS:** 14 · **~6.5 sec** · 3.5 sec hold
-
----
-
-### CLIP 09 · 1:20–1:30 · TWENTY NAMES
-
-**VISUAL:** Finger on muster roll. Names. Faces in candlelight.
-
-**VO:**  
-*"Twenty men in my father's field. Twenty names on paper. Not enough… not yet."*
-
-**WORDS:** 14 · **~6.5 sec** · 3.5 sec hold
+**Speakers this clip:** SPENCER (on-screen) · NARRATOR (VO after shot)
 
 ---
 
-### CLIP 10 · 1:30–1:40 · THE SQUAD
+## CLIP 05 · THE RIDGE · 10.0 sec
 
-**VISUAL:** Saddles. Pistols checked. Horner, Middleton, Arnold, Wilson — no hero poses.
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **EXT. POTATO FIELD — CONTINUOUS `[1864]`** · **WILLIAM** (30) runs camera-left, hand to **blood at hairline**, stumbling. | *(silence)* · **SFX:** running breath |
+| **0:01.5–0:04.0** | Close: pistol **butt** strikes frame edge (implied, not full face gore). William drops to knees between rows. | **NARRATOR `[VO]`:** *"They beat his son in the field and left him for dead."* |
+| **0:04.0–0:08.5** | **EXT. FIELD EDGE — DUSK `[1864]`** · **MARY ANN** and **PERMELIA** under William's arms, dragging him **away from house, toward ridge timber** (camera pans with them — house recedes). | **NARRATOR `[VO]`:** *"The women carried him toward the ridge — not the house."* |
+| **0:08.5–0:10.0** | They enter tree shadow. Ridge swallows them. | *(silence)* |
 
-**VO:**  
-*"So my father gathered desperate men… and went back into the hills to learn the rest."*
-
-**WORDS:** 16 · **~7 sec** · 3 sec hold  
-**SFX:** Leather creak. One horse breath.
-
----
-
-### CLIP 11 · 1:40–1:50 · THE CORNFIELD
-
-**VISUAL:** Rows. Smoke low. Horner aims. Hand shakes. Pistol thrown. Rider escapes ridge.
-
-**VO:**  
-*"He picked out the leader… and couldn't shoot. The leader rode into the timber."*
-
-**WORDS:** 14 · **~6.5 sec** · 3.5 sec hold
+**Speakers this clip:** NARRATOR only (VO)
 
 ---
 
-### CLIP 12 · 1:50–2:00 · THE COUNT
+## CLIP 06 · THE CAVE · 10.0 sec
 
-**VISUAL:** Squad at field edge. Blood on cuffs. No badges.
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **INT. CAVE OVERHANG — NIGHT `[1864]`** · Rock ceiling fills top half. **WILLIAM** on quilt, face swollen, eyes open. | **SFX:** water drip (steady) |
+| **0:01.5–0:05.5** | **MARY ANN** dips cloth in tin cup, wipes his mouth. **CHILD** (Christopher) asleep against wall. | **NARRATOR `[VO]`:** *"He lived eight days in a hole in the hill."* |
+| **0:05.5–0:08.5** | Close: William's fingers twitch.grasp Mary's wrist. | **MARY ANN `[ON-SCREEN, whisper]`:** *"We already are."* |
+| **0:08.5–0:10.0** | Hold cave mouth — black trees outside. | **NARRATOR `[VO]`:** *"While the county stayed quiet."* |
 
-**VO:**  
-*"Twenty in the field. One in the rows. Nineteen left. Then we're not done."*
-
-**WORDS:** 14 · **~6.5 sec** · 3.5 sec hold
-
----
-
-### CLIP 13 · 2:00–2:10 · SEVENTEEN OF TWENTY
-
-**VISUAL:** 1942 porch. Old man. Child on steps. Summer dark beyond.
-
-**VO:**  
-*"They killed seventeen out of the twenty bushwhackers. What happened to the other three?"*
-
-**WORDS:** 16 · **~7.5 sec** · 2.5 sec hold  
-**NOTE:** Last sentence is **child voice** if you want two speakers; or old man as memory — use child for punch.
-
-**ALT CHILD VO ONLY (last 4 sec):** *"What happened to the other three?"*
+**Speakers this clip:** NARRATOR (VO) · MARY ANN (on-screen whisper)
 
 ---
 
-### CLIP 14 · 2:10–2:20 · TITLE
+## CLIP 07 · PARTIES KNOWN · 10.0 sec
 
-**VISUAL:** Present-day potato rows. Phone pocketed. Ridge. Black. Title card.
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **EXT. MOORE CEMETERY — DAY `[1864]`** · Macro: chisel tip on limestone. Granite dust. | **SFX:** chisel strike |
+| **0:01.5–0:05.5** | Pull back: **CARVER** (hands only, gloves) chips letters. Camera readable on stone: `WM. R. HOMER` · `AUG. 10, 1864` | **CARVER `[O.S., work voice]`:** *"…killed August the tenth…"* |
+| **0:05.5–0:08.0** | Camera lands on fresh cut: `BY PARTIES KNOWN TO HIS FAMILY` — hold misspelling **HOMER**. | **NARRATOR `[VO]`:** *"By parties known to his family. Carved in stone."* |
+| **0:08.0–0:10.0** | Static stone. No courthouse, no paper. | **NARRATOR `[VO]`:** *"Not in court."* |
 
-**VO:**  
-*"The county never wrote it down. That's why the hills are still waiting."*
-
-**WORDS:** 14 · **~6.5 sec** · 1.5 sec hold · **TITLE 2 sec**
-
-**TITLE CARD:** **THE HILL**  
-**TAG:** *Before the violence, there was dinner.*
+**Speakers this clip:** CARVER (off-screen) · NARRATOR (VO)
 
 ---
 
-## VO-only script (copy/paste for recording)
+## CLIP 08 · THE SILENCE · 10.0 sec
 
-Read each block as one clip. Pause at line breaks.
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **INT. JOHNSON COUNTY SHERIFF'S OFFICE — DAY `[1864]`** · Top-down: open **ledger**. Blank warrant page. **Feather pen** dry in inkwell. | *(silence)* |
+| **0:01.5–0:05.0** | Slow pan up wall: framed **oil portrait — JOHN FRY HILL** (40s, beard, Confederate collar under sheriff badge). No one in room. | **NARRATOR `[VO]`:** *"The sheriff held the county. The war held the hills."* |
+| **0:05.0–0:08.5** | Hold portrait. Office door visible — **empty street** through glass. | **NARRATOR `[VO]`:** *"The law never came."* |
+| **0:08.5–0:10.0** | Portrait eyes. | *(silence)* |
 
+**Speakers this clip:** NARRATOR only · **No Hill dialogue** (face only)
+
+---
+
+## CLIP 09 · TWENTY NAMES · 10.0 sec
+
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **INT. BARN — NIGHT `[1864]`** · Candle on crate. **Union muster roll** unfurled. Finger enters frame. | **SFX:** paper unroll |
+| **0:01.5–0:06.5** | **HORNER** (34, doctor, no coat) leans over paper. Finger jumps name to name. **MIDDLETON** opposite, arms crossed. | **HORNER `[ON-SCREEN, flat]`:** *"Twenty men in my father's field."* · *(beat)* · *"Twenty names on paper."* |
+| **0:06.5–0:09.0** | Close: finger stops on blank margin. | **HORNER `[ON-SCREEN]`:** *"Not enough… not yet."* |
+| **0:09.0–0:10.0** | Hold blank margin. | *(silence)* |
+
+**Speakers this clip:** HORNER only (on-screen) · MIDDLETON silent on-screen
+
+---
+
+## CLIP 10 · THE SQUAD · 10.0 sec
+
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **EXT. BARN / TIMBER — PRE-DAWN `[1864]`** · Four horses saddled. **JESS WILSON** holds reins (small, wiry). | **SFX:** leather creak |
+| **0:01.5–0:05.5** | **HORNER** checks pistol cylinder. **MIDDLETON** mounts. **FATE ARNOLD** (small, iron eyes) watches tree line. | **OLD MAN `[VO, 1942 memory over 1864]`:** *"Dad had a squad of men… Wash Middleton and Fate Arnold… desperate men."* |
+| **0:05.5–0:08.5** | Horses turn into dark timber. | **HORNER `[ON-SCREEN, quiet]`:** *"Then we learn the rest."* |
+| **0:08.5–0:10.0** | Hooves disappear into brush. | **SFX:** one horse exhale |
+
+**Speakers this clip:** OLD MAN (VO over picture) · HORNER (on-screen) — **different eras, do not overlap**
+
+---
+
+## CLIP 11 · THE CORNFIELD · 10.0 sec
+
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **EXT. CORNFIELD — LATE DAY `[1864]`** · Stubble smoke haze. **MIDDLETON** and **ARNOLD** between rows. Body on ground (boots only). | *(silence)* |
+| **0:01.5–0:04.5** | **HORNER** raises pistol at **LEADER** (rider silhouette 40 yards, ridge line). Hand **trembles**. | **NARRATOR `[VO]`:** *"He picked out the leader…"* |
+| **0:04.5–0:06.0** | Gunshot **wide**. Pistol **thrown** from frame. Leader **does not fall** — spurs into timber. | **SFX:** wide shot · pistol clatter |
+| **0:06.0–0:09.0** | **ARNOLD** turns to HORNER. HORNER stares at empty ridge. | **ARNOLD `[ON-SCREEN, hard]`:** *"You let him go."* · **HORNER `[ON-SCREEN]`:** *"I didn't let him go."* |
+| **0:09.0–0:10.0** | Empty ridge line. | *(silence)* |
+
+**Speakers this clip:** NARRATOR (VO) · ARNOLD (on-screen) · HORNER (on-screen) — **label ARNOLD/HORNER in captions**
+
+---
+
+## CLIP 12 · THE COUNT · 10.0 sec
+
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **EXT. CORNFIELD EDGE — DUSK `[1864]`** · Squad four-wide. Blood on cuffs. **No uniforms. No badges.** | *(silence)* |
+| **0:01.5–0:05.5** | **HORNER** looks at ground, not sky. Counting internal. | **HORNER `[ON-SCREEN]`:** *"Twenty in the field. One in the rows."* |
+| **0:05.5–0:07.5** | **MIDDLETON** looks at Horner. | **HORNER `[ON-SCREEN]`:** *"Nineteen left."* |
+| **0:07.5–0:09.5** | Beat. Wind in rows. | **MIDDLETON `[ON-SCREEN]`:** *"Then we're not done."* · **HORNER `[ON-SCREEN]`:** *"We're started."* |
+| **0:09.5–0:10.0** | Hold four men. | *(silence)* |
+
+**Speakers this clip:** HORNER + MIDDLETON only · **all on-screen, no narrator**
+
+---
+
+## CLIP 13 · SEVENTEEN OF TWENTY · 10.0 sec
+
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **EXT. PORCH — NIGHT `[1942]`** · **OLD MAN** rocking chair. **GIRL** (Eva) on step, knees pulled up. Crickets. | *(silence)* |
+| **0:01.5–0:06.5** | Medium two-shot. Old man does not look at girl — looks at trees. | **OLD MAN `[ON-SCREEN]`:** *"They killed seventeen out of the twenty bushwhackers."* |
+| **0:06.5–0:09.0** | Girl leans forward. Old man still doesn't look. | **GIRL `[ON-SCREEN, clear child voice]`:** *"What happened to the other three?"* |
+| **0:09.0–0:10.0** | Hold girl's face waiting. No answer in clip. | *(silence — Old man does not speak)* |
+
+**Speakers this clip:** OLD MAN · GIRL — **question unanswered in clip**
+
+---
+
+## CLIP 14 · TITLE · 10.0 sec
+
+| TIME | VISUAL (specific) | SPOKEN |
+|------|-------------------|--------|
+| **0:00–0:01.5** | **EXT. POTATO FIELD — PRESENT `[2026]`** · Same GPS ground as Clip 04. August heat shimmer. **DANIEL** (work shirt, not staged) stands at row edge. | *(silence)* · wind in rows |
+| **0:01.5–0:04.5** | Close: **phone screen** shows map pin — thumb **does not** tap publish. Phone slides into pocket. | **DANIEL `[ON-SCREEN, quiet]`:** *"The county never wrote it down."* |
+| **0:04.5–0:07.5** | Daniel looks up at **ridge** (same tree line as Clip 11 escape). | **DANIEL `[ON-SCREEN]`:** *"That's why the hills are still waiting."* |
+| **0:07.5–0:08.5** | Cut **BLACK**. | *(silence)* |
+| **0:08.5–0:10.0** | **TITLE CARD:** **THE HILL** center · subtitle under: *Before the violence, there was dinner.* | *(silence)* · optional single bow note |
+
+**Speakers this clip:** DANIEL only (on-screen) · **no narrator**
+
+---
+
+## RECORDING SHEET — who speaks per clip
+
+| Clip | On-screen speakers | Voiceover speakers |
+|------|-------------------|-------------------|
+| 01 | — | NARRATOR |
+| 02 | LOUIS | NARRATOR |
+| 03 | CHILD, OLD MAN | — |
+| 04 | SPENCER | NARRATOR |
+| 05 | — | NARRATOR |
+| 06 | MARY ANN | NARRATOR |
+| 07 | CARVER (O.S.) | NARRATOR |
+| 08 | — | NARRATOR |
+| 09 | HORNER | — |
+| 10 | HORNER | OLD MAN (over) |
+| 11 | ARNOLD, HORNER | NARRATOR |
+| 12 | HORNER, MIDDLETON | — |
+| 13 | OLD MAN, GIRL | — |
+| 14 | DANIEL | — |
+
+---
+
+## CAPTION / SRT FORMAT EXAMPLE (Clip 12)
+
+```srt
+1
+00:00:01,500 --> 00:00:03,500
+[HORNER · 1864 · ON-SCREEN]
+Twenty in the field. One in the rows.
+
+2
+00:00:05,500 --> 00:00:06,500
+[HORNER · 1864 · ON-SCREEN]
+Nineteen left.
+
+3
+00:00:07,500 --> 00:00:08,500
+[MIDDLETON · 1864 · ON-SCREEN]
+Then we're not done.
+
+4
+00:00:08,500 --> 00:00:09,500
+[HORNER · 1864 · ON-SCREEN]
+We're started.
 ```
-1. Johnson County. Eighteen sixty-four. Before the violence… there was dinner.
-
-2. Whatever you do… don't go up to the house in the daytime. The food was in the kitchen.
-
-3. Here they come, Grandpap— … Wasn't long till about twenty rebels came riding up.
-
-4. Grandfather went out and said, I surrender. They shot him down in the potato patch.
-
-5. They beat his son in the field and left him for dead. The women carried him to the ridge.
-
-6. He lived eight days in a hole in the hill. Eight days… while the county stayed quiet.
-
-7. Killed August the tenth… by parties known to his family. Carved in stone. Not in court.
-
-8. The sheriff held the county. The war held the hills. The law never came.
-
-9. Twenty men in my father's field. Twenty names on paper. Not enough… not yet.
-
-10. So my father gathered desperate men… and went back into the hills to learn the rest.
-
-11. He picked out the leader… and couldn't shoot. The leader rode into the timber.
-
-12. Twenty in the field. One in the rows. Nineteen left. Then we're not done.
-
-13. They killed seventeen out of the twenty bushwhackers. What happened to the other three?
-
-14. The county never wrote it down. That's why the hills are still waiting.
-```
 
 ---
 
-## Standalone social posting order
-
-If clips post one per day, this order maximizes hooks:
-
-| Day | Clip | Hook |
-|-----|------|------|
-| 1 | 14 | Title + *hills are still waiting* |
-| 2 | 13 | **The 3** question |
-| 3 | 04 | *I surrender* |
-| 4 | 01 | Chicken dinner |
-| 5 | 12 | *Nineteen left* |
-| 6 | 08 | Sheriff / law never came |
-| 7 | 11 | Leader escapes |
-| 8 | 07 | *Parties known* tombstone |
-| 9 | 03 | Twenty riders |
-| 10 | 06 | Eight days in the cave |
-| 11 | 10 | Squad into hills |
-| 12 | 09 | Twenty names |
-| 13 | 05 | Ridge carry |
-| 14 | 02 | Daytime warning |
-
-**Caption template:** `THE HILL · Clip [#]/14 · Johnson County, 1864` + one evidence-tier hashtag optional `#FamilyHistory #Ozarks #SouthernGothic`
-
----
-
-## File export spec
+## EXPORT
 
 | Spec | Value |
 |------|-------|
-| Duration | **10.0 sec** each (pad with hold if VO ends early) |
-| Resolution | 1080×1920 vertical **or** 1920×1080 horizontal (export both) |
-| Captions | Burn VO + `[THE HILL]` watermark clip # |
-| Audio | -16 LUFS VO; room tone -24 LUFS |
+| Length | **10.0 sec** each (pad tail hold if needed) |
+| Captions | **Burn speaker ID** first line of each subtitle block |
+| Vertical | 1080×1920 — keep faces in center safe zone |
+| Horizontal | 1920×1080 — porch/field wide shots preferred |
