@@ -15,15 +15,7 @@ QA result:
 
 Repository push status:
 - QA report committed to this repo.
-- Full generated folder still needs bulk upload from the local zip package.
+- Full Season One script system pushed to `main` (8 episodes, 40 act files, series bible, evidence lanes, pitch package, WRH linkage).
 
-Connector note:
-The available GitHub write path can create UTF-8 text files through the contents API. It does not directly upload the generated zip/folder from /mnt/data as a binary repository artifact.
-
-Next manual-safe command after downloading and opening the QA-pass zip:
-
-unzip THE_HILL_SEASON_ONE_COMPLETE_SCRIPT_SYSTEM_QA_PASS.zip
-cp -R THE_HILL_FILE_SYSTEM/* ./
-git add .
-git commit -m "Add THE HILL Season One complete first-draft script system"
-git push origin main
+Package source:
+`THE_HILL_SEASON_ONE_COMPLETE_SCRIPT_SYSTEM (1).zip` from the 2026-06-15 ingest batch.
