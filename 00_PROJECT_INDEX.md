@@ -42,6 +42,14 @@ The following files are present under:
 
 - `00_INBOX/_auto_ingest/INGEST_LOG.md`
 
+## Newly recovered files added from File Library search
+
+The following was found as pasted/saved show content and added separately because it was not part of the original 2026-06-15 auto-ingest set:
+
+- `02-episodes/season-two/episode-01-the-weight-of-the-water.partial.md`
+
+Recovery note: the source result was truncated, so this file is labeled as a **partial recovery**, not a final complete script.
+
 ## Current creative identity
 
 **The Hill** is a Southern gothic historical family drama rooted in the Horner-Hill family history, Mulberry Township, Johnson County, Arkansas, and the buried violence surrounding Spencer Horner and William Riley Horner in 1864.
