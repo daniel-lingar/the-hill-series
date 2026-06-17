@@ -11,6 +11,18 @@ This file is the current top-level index for the GitHub repository archive.
 - Status: active public repo
 - Default branch: `main`
 
+## Canonical season architecture
+
+Season One is now locked as:
+
+```text
+8 episodes × 5 acts = 40 act containers
+```
+
+Canonical structure file:
+
+- `01-season-one/SEASON_ONE_STRUCTURE.md`
+
 ## Confirmed show files already present in GitHub
 
 The following files are present under:
